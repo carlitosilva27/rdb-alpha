@@ -194,3 +194,5 @@ ls --color=auto
 clear
 mkdir website
 ls --color=auto
+cd ./we
+cd ./website/
