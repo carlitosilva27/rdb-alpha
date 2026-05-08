@@ -189,3 +189,5 @@ cd ..
 ls --color=auto
 cd ..
 cd ../..
+clear
+ls --color=auto
