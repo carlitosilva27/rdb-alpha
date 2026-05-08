@@ -203,3 +203,5 @@ echi website
 echo website
 echo hello website
 touch index.html
+ls --color=auto
+touch styles.css
