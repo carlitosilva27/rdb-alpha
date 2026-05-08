@@ -196,3 +196,6 @@ mkdir website
 ls --color=auto
 cd ./we
 cd ./website/
+CLEAR
+L
+ls --color=auto
