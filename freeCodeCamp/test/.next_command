@@ -153,3 +153,5 @@ ls --color=auto
 pwd
 clear
 ls --color=auto
+d ..
+cd ..
