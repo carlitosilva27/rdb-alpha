@@ -205,3 +205,4 @@ echo hello website
 touch index.html
 ls --color=auto
 touch styles.css
+ls --color=auto
