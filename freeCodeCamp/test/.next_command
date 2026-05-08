@@ -199,3 +199,6 @@ cd ./website/
 CLEAR
 L
 ls --color=auto
+echi website
+echo website
+echo hello website
