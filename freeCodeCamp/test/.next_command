@@ -210,3 +210,8 @@ touch index.js
 ls --color=auto
 touch .gitignore
 ls --color=auto
+clear
+.gitignore --help
+ls --color=auto
+ls --color=auto -l
+ls --color=auto --help
