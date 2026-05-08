@@ -50,3 +50,11 @@ pwd
 clear
 ls --color=auto
 cd ./freeCodeCamp/
+ls --color=auto
+ls --color=auto -l
+clear
+ls --color=auto
+cd ..
+cd ./freeCodeCamp/
+ls --color=auto
+pwd
