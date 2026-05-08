@@ -178,3 +178,5 @@ clear
 src
 ls --color=auto
 cd ./src
+ls --color=auto
+pwd
