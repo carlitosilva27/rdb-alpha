@@ -58,3 +58,6 @@ cd ..
 cd ./freeCodeCamp/
 ls --color=auto
 pwd
+cd ..
+cd ./freeCodeCamp/
+ls --color=auto
