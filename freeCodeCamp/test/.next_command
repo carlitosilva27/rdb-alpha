@@ -209,3 +209,4 @@ ls --color=auto
 touch index.js
 ls --color=auto
 touch .gitignore
+ls --color=auto
