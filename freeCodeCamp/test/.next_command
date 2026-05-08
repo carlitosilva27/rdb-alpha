@@ -174,3 +174,7 @@ ls --color=auto
 more LICENSE-MIT
 clear
 ls --color=auto
+clear
+src
+ls --color=auto
+cd ./src
